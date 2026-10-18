@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+data/
+demo-data/
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+report*.csv
+.DS_Store

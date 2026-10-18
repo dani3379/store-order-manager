@@ -1,0 +1,4 @@
+customer_id	name	email	phone	city	customer_type
+1	Demo Customer One	customer.one@example.com		Demo City	Individual
+2	Sample Studio	studio@example.com		Example Town	Business
+3	Demo Customer Three	customer.three@example.com		Demo City	Individual

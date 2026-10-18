@@ -1,0 +1,5 @@
+product_id	name	category	unit_price
+101	Notebook	1	5.50
+102	Desk Lamp	3	24.00
+103	USB Hub	2	18.75
+104	Pen Set	1	4.25
